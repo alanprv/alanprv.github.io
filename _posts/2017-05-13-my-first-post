@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "My first post"
+date:   2017-05-13 11:52:49 +0100
+categories: getting started
+---
+
+Hi there!
+
+This is my first blog post in an actual proper blog. I'm not saying [wordpress] or [blogger] are boring, they're just not enough. I want to have
+a proper personal webpage where I can dump my stuff, be that book reviews,
+original articles about my interests, etc. I understand that, by writing political opinion, I am effectively competing against the whole internet. But I'm not doing that. I'm not expecting millions of visitors (the hosting I get for free in [github-pages]) can probably cope with about 500 requests at the same time (actually, I don't know how much, I'll have to check) but you get my point.
+
+
+[wordpress]: http://wordpress.com
+[blogger]: http://blogger.com
+[github-pages]: http://pages.github.com
