@@ -5,15 +5,15 @@ categories: blog posts
 ---
 
 
-I see the fire.
+I see the fire,
 
 I see the flame.
 
 I see The Dream speaking my name. 
 
-All death is in vain.
+You can tell he's a liar:
 
-All death is in vain?
+all death is in vain?
 
 Is the dimmed horizon just a devil that remains?
 
