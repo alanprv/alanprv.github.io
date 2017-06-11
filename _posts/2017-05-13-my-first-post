@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "My first post"
 date:   2017-05-13 11:52:49 +0100
 categories: getting started
