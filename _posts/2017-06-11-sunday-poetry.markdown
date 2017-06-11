@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Sunday Morning Poetry"
 categories: blog posts
 ---
