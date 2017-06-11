@@ -7,9 +7,9 @@ categories: blog posts
 
 I see the fire,
 
-I see the flame.
+I feel the flame.
 
-I see The Dream speaking my name. 
+I hear The Dream speaking my name. 
 
 You can tell he's a liar:
 
